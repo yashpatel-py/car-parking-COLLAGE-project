@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">POOJANAPP</string>
+    <string name="parking_slot">PARKING SLOT</string>
+    <string name="red_indicates_parking_slot_is_full_n_ngreen_indicates_parking_slot_is_empty">RED INDICATES PARKING SLOT IS FULL\n\nGREEN INDICATES PARKING SLOT IS EMPTY</string>
+    <string name="a_smart_car_parking_application">A SMART CAR PARKING APPLICATION</string>
+    <string name="poojan_app">POOJAN APP</string>
+    <string name="name">Name</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="p_o_o_j_a_n_a_p_p">P O O J A N A P P</string>
+    <string name="log_in">Log in</string>
+    <string name="username">UserName</string>
+    <string name="enter_password">Enter Password</string>
+</resources>

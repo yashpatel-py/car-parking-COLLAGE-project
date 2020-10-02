@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947302070273",
+    "firebase_url": "https://iot-car-parking-system.firebaseio.com",
+    "project_id": "iot-car-parking-system",
+    "storage_bucket": "iot-car-parking-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947302070273:android:78e341bc71fb5e7712a800",
+        "android_client_info": {
+          "package_name": "com.example.poojanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947302070273-u2f72gn92ke0og2e4ucc5ckbqs3fal93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poojanapp",
+            "certificate_hash": "37336637b5dc37e12b8a5b397f1e315a215a5294"
+          }
+        },
+        {
+          "client_id": "947302070273-ijs594cd59gvh6egke45ogaf42hb0b9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmMGqT8bG1FhaAXeOLiQj78y9ap04l7qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947302070273-ijs594cd59gvh6egke45ogaf42hb0b9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
